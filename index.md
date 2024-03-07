@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Final Grade Plan
 ---
 
 The "Final Grade Plan" in the context of teaching for learning is a strategy designed to assess student learning and achievement over the course of an academic period. It encompasses various components of coursework, including exams, projects, participation, and possibly other forms of assessment, each contributing a specified percentage towards the final grade. Implementing an effective Final Grade Plan involves understanding key principles in educational assessment and student learning. Here's an overview of how to design and implement a Final Grade Plan effectively:
